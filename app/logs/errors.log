@@ -1,0 +1,163 @@
+[25-May-2021 17:47:01 Europe/Berlin] PHP Warning:  file_get_contents(D:\web_php\2021.05.10_home\app/uploads/.): failed to open stream: Permission denied in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 24
+[25-May-2021 17:47:01 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in D:\web_php\2021.05.10_home\app\views\table.php on line 3
+[25-May-2021 17:47:01 Europe/Berlin] PHP Warning:  array_keys() expects parameter 1 to be array, null given in D:\web_php\2021.05.10_home\app\views\chart.php on line 8
+[25-May-2021 17:47:01 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\web_php\2021.05.10_home\app\views\chart.php on line 11
+[25-May-2021 17:47:34 Europe/Berlin] PHP Warning:  file_get_contents(D:\web_php\2021.05.10_home\app/uploads/.): failed to open stream: Permission denied in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 24
+[25-May-2021 17:47:34 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in D:\web_php\2021.05.10_home\app\views\table.php on line 3
+[25-May-2021 17:47:34 Europe/Berlin] PHP Warning:  array_keys() expects parameter 1 to be array, null given in D:\web_php\2021.05.10_home\app\views\chart.php on line 8
+[25-May-2021 17:47:34 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\web_php\2021.05.10_home\app\views\chart.php on line 11
+[25-May-2021 17:47:35 Europe/Berlin] PHP Warning:  file_get_contents(D:\web_php\2021.05.10_home\app/uploads/.): failed to open stream: Permission denied in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 24
+[25-May-2021 17:47:35 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in D:\web_php\2021.05.10_home\app\views\table.php on line 3
+[25-May-2021 17:47:35 Europe/Berlin] PHP Warning:  array_keys() expects parameter 1 to be array, null given in D:\web_php\2021.05.10_home\app\views\chart.php on line 8
+[25-May-2021 17:47:35 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\web_php\2021.05.10_home\app\views\chart.php on line 11
+[25-May-2021 17:47:42 Europe/Berlin] PHP Warning:  file_get_contents(D:\web_php\2021.05.10_home\app/uploads/.): failed to open stream: Permission denied in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 24
+[25-May-2021 17:47:42 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in D:\web_php\2021.05.10_home\app\views\table.php on line 3
+[25-May-2021 17:47:42 Europe/Berlin] PHP Warning:  array_keys() expects parameter 1 to be array, null given in D:\web_php\2021.05.10_home\app\views\chart.php on line 8
+[25-May-2021 17:47:42 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\web_php\2021.05.10_home\app\views\chart.php on line 11
+[25-May-2021 18:01:01 Europe/Berlin] PHP Notice:  Undefined variable: fileInfo in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 6
+[25-May-2021 18:01:01 Europe/Berlin] PHP Notice:  Undefined variable: fileInfo in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 6
+[25-May-2021 18:57:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use object of type DirectoryIterator as array in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php:5
+Stack trace:
+#0 D:\web_php\2021.05.10_home\app\routes.php(17): require_once()
+#1 D:\web_php\2021.05.10_home\app\bootstrap.php(17): require_once('D:\\web_php\\2021...')
+#2 D:\web_php\2021.05.10_home\public\index.php(3): require_once('D:\\web_php\\2021...')
+#3 {main}
+  thrown in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 5
+[25-May-2021 19:00:13 Europe/Berlin] PHP Notice:  Undefined variable: fileInfo in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 8
+[25-May-2021 19:00:13 Europe/Berlin] PHP Notice:  Undefined variable: fileInfo in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 8
+[25-May-2021 19:00:13 Europe/Berlin] PHP Notice:  Undefined index: extension in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 16
+[25-May-2021 19:00:13 Europe/Berlin] PHP Notice:  Undefined index: extension in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 16
+[25-May-2021 19:00:13 Europe/Berlin] PHP Notice:  Undefined variable: lastFile in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 46
+[25-May-2021 19:00:13 Europe/Berlin] PHP Warning:  file_get_contents(D:\web_php\2021.05.10_home\app/uploads/): failed to open stream: No such file or directory in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 46
+[25-May-2021 19:00:13 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in D:\web_php\2021.05.10_home\app\views\table.php on line 3
+[25-May-2021 19:00:13 Europe/Berlin] PHP Warning:  array_keys() expects parameter 1 to be array, null given in D:\web_php\2021.05.10_home\app\views\chart.php on line 8
+[25-May-2021 19:00:13 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\web_php\2021.05.10_home\app\views\chart.php on line 11
+[25-May-2021 19:00:43 Europe/Berlin] PHP Notice:  Undefined variable: fileinfo in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 7
+[25-May-2021 19:00:43 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function isDot() on null in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php:7
+Stack trace:
+#0 D:\web_php\2021.05.10_home\app\routes.php(17): require_once()
+#1 D:\web_php\2021.05.10_home\app\bootstrap.php(17): require_once('D:\\web_php\\2021...')
+#2 D:\web_php\2021.05.10_home\public\index.php(3): require_once('D:\\web_php\\2021...')
+#3 {main}
+  thrown in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 7
+[25-May-2021 19:00:57 Europe/Berlin] PHP Notice:  Undefined index: extension in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 16
+[25-May-2021 19:00:57 Europe/Berlin] PHP Notice:  Undefined index: extension in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 16
+[25-May-2021 19:00:57 Europe/Berlin] PHP Notice:  Undefined variable: lastFile in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 46
+[25-May-2021 19:00:57 Europe/Berlin] PHP Warning:  file_get_contents(D:\web_php\2021.05.10_home\app/uploads/): failed to open stream: No such file or directory in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 46
+[25-May-2021 19:00:57 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in D:\web_php\2021.05.10_home\app\views\table.php on line 3
+[25-May-2021 19:00:57 Europe/Berlin] PHP Warning:  array_keys() expects parameter 1 to be array, null given in D:\web_php\2021.05.10_home\app\views\chart.php on line 8
+[25-May-2021 19:00:57 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\web_php\2021.05.10_home\app\views\chart.php on line 11
+[25-May-2021 19:01:37 Europe/Berlin] PHP Notice:  Undefined index: extension in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 16
+[25-May-2021 19:01:37 Europe/Berlin] PHP Notice:  Undefined index: extension in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 16
+[25-May-2021 19:01:37 Europe/Berlin] PHP Notice:  Undefined variable: lastFile in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 46
+[25-May-2021 19:01:37 Europe/Berlin] PHP Warning:  file_get_contents(D:\web_php\2021.05.10_home\app/uploads/): failed to open stream: No such file or directory in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 46
+[25-May-2021 19:01:37 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in D:\web_php\2021.05.10_home\app\views\table.php on line 3
+[25-May-2021 19:01:37 Europe/Berlin] PHP Warning:  array_keys() expects parameter 1 to be array, null given in D:\web_php\2021.05.10_home\app\views\chart.php on line 8
+[25-May-2021 19:01:37 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\web_php\2021.05.10_home\app\views\chart.php on line 11
+[25-May-2021 19:01:39 Europe/Berlin] PHP Notice:  Undefined index: extension in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 16
+[25-May-2021 19:01:39 Europe/Berlin] PHP Notice:  Undefined index: extension in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 16
+[25-May-2021 19:01:39 Europe/Berlin] PHP Notice:  Undefined variable: lastFile in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 46
+[25-May-2021 19:01:39 Europe/Berlin] PHP Warning:  file_get_contents(D:\web_php\2021.05.10_home\app/uploads/): failed to open stream: No such file or directory in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 46
+[25-May-2021 19:01:39 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in D:\web_php\2021.05.10_home\app\views\table.php on line 3
+[25-May-2021 19:01:39 Europe/Berlin] PHP Warning:  array_keys() expects parameter 1 to be array, null given in D:\web_php\2021.05.10_home\app\views\chart.php on line 8
+[25-May-2021 19:01:39 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\web_php\2021.05.10_home\app\views\chart.php on line 11
+[25-May-2021 19:02:39 Europe/Berlin] PHP Notice:  Undefined index: extension in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 17
+[25-May-2021 19:02:39 Europe/Berlin] PHP Notice:  Undefined index: extension in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 17
+[25-May-2021 19:02:39 Europe/Berlin] PHP Notice:  Undefined variable: lastFile in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 47
+[25-May-2021 19:02:39 Europe/Berlin] PHP Warning:  file_get_contents(D:\web_php\2021.05.10_home\app/uploads/): failed to open stream: No such file or directory in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 47
+[25-May-2021 19:02:39 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in D:\web_php\2021.05.10_home\app\views\table.php on line 3
+[25-May-2021 19:02:39 Europe/Berlin] PHP Warning:  array_keys() expects parameter 1 to be array, null given in D:\web_php\2021.05.10_home\app\views\chart.php on line 8
+[25-May-2021 19:02:39 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\web_php\2021.05.10_home\app\views\chart.php on line 11
+[25-May-2021 19:02:40 Europe/Berlin] PHP Notice:  Undefined index: extension in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 17
+[25-May-2021 19:02:40 Europe/Berlin] PHP Notice:  Undefined index: extension in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 17
+[25-May-2021 19:02:40 Europe/Berlin] PHP Notice:  Undefined variable: lastFile in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 47
+[25-May-2021 19:02:40 Europe/Berlin] PHP Warning:  file_get_contents(D:\web_php\2021.05.10_home\app/uploads/): failed to open stream: No such file or directory in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 47
+[25-May-2021 19:02:40 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in D:\web_php\2021.05.10_home\app\views\table.php on line 3
+[25-May-2021 19:02:40 Europe/Berlin] PHP Warning:  array_keys() expects parameter 1 to be array, null given in D:\web_php\2021.05.10_home\app\views\chart.php on line 8
+[25-May-2021 19:02:40 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\web_php\2021.05.10_home\app\views\chart.php on line 11
+[25-May-2021 19:03:12 Europe/Berlin] PHP Notice:  Array to string conversion in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 15
+[25-May-2021 19:03:12 Europe/Berlin] PHP Warning:  Illegal string offset 'extension' in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 17
+[25-May-2021 19:03:12 Europe/Berlin] PHP Notice:  Array to string conversion in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 15
+[25-May-2021 19:03:12 Europe/Berlin] PHP Warning:  Illegal string offset 'extension' in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 17
+[25-May-2021 19:03:12 Europe/Berlin] PHP Notice:  Undefined variable: lastFile in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 47
+[25-May-2021 19:03:12 Europe/Berlin] PHP Warning:  file_get_contents(D:\web_php\2021.05.10_home\app/uploads/): failed to open stream: No such file or directory in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 47
+[25-May-2021 19:03:12 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in D:\web_php\2021.05.10_home\app\views\table.php on line 3
+[25-May-2021 19:03:12 Europe/Berlin] PHP Warning:  array_keys() expects parameter 1 to be array, null given in D:\web_php\2021.05.10_home\app\views\chart.php on line 8
+[25-May-2021 19:03:12 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\web_php\2021.05.10_home\app\views\chart.php on line 11
+[25-May-2021 19:03:36 Europe/Berlin] PHP Notice:  Undefined index: extension in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 17
+[25-May-2021 19:03:36 Europe/Berlin] PHP Notice:  Undefined index: extension in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 17
+[25-May-2021 19:03:36 Europe/Berlin] PHP Notice:  Undefined variable: lastFile in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 47
+[25-May-2021 19:03:36 Europe/Berlin] PHP Warning:  file_get_contents(D:\web_php\2021.05.10_home\app/uploads/): failed to open stream: No such file or directory in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 47
+[25-May-2021 19:03:36 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in D:\web_php\2021.05.10_home\app\views\table.php on line 3
+[25-May-2021 19:03:36 Europe/Berlin] PHP Warning:  array_keys() expects parameter 1 to be array, null given in D:\web_php\2021.05.10_home\app\views\chart.php on line 8
+[25-May-2021 19:03:36 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\web_php\2021.05.10_home\app\views\chart.php on line 11
+[26-May-2021 05:09:23 Europe/Berlin] PHP Notice:  Undefined index: extension in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 17
+[26-May-2021 05:09:23 Europe/Berlin] PHP Notice:  Undefined index: extension in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 17
+[26-May-2021 05:09:23 Europe/Berlin] PHP Notice:  Undefined variable: lastFile in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 47
+[26-May-2021 05:09:23 Europe/Berlin] PHP Warning:  file_get_contents(D:\web_php\2021.05.10_home\app/uploads/): failed to open stream: No such file or directory in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 47
+[26-May-2021 05:09:23 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in D:\web_php\2021.05.10_home\app\views\table.php on line 3
+[26-May-2021 05:09:23 Europe/Berlin] PHP Warning:  array_keys() expects parameter 1 to be array, null given in D:\web_php\2021.05.10_home\app\views\chart.php on line 8
+[26-May-2021 05:09:23 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\web_php\2021.05.10_home\app\views\chart.php on line 11
+[26-May-2021 05:10:25 Europe/Berlin] PHP Notice:  Undefined variable: lastFile in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 50
+[26-May-2021 05:10:25 Europe/Berlin] PHP Warning:  file_get_contents(D:\web_php\2021.05.10_home\app/uploads/): failed to open stream: No such file or directory in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 50
+[26-May-2021 05:10:25 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in D:\web_php\2021.05.10_home\app\views\table.php on line 3
+[26-May-2021 05:10:25 Europe/Berlin] PHP Warning:  array_keys() expects parameter 1 to be array, null given in D:\web_php\2021.05.10_home\app\views\chart.php on line 8
+[26-May-2021 05:10:25 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\web_php\2021.05.10_home\app\views\chart.php on line 11
+[26-May-2021 05:10:45 Europe/Berlin] PHP Notice:  Undefined variable: lastFile in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 51
+[26-May-2021 05:10:45 Europe/Berlin] PHP Warning:  file_get_contents(D:\web_php\2021.05.10_home\app/uploads/): failed to open stream: No such file or directory in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 51
+[26-May-2021 05:10:45 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in D:\web_php\2021.05.10_home\app\views\table.php on line 3
+[26-May-2021 05:10:45 Europe/Berlin] PHP Warning:  array_keys() expects parameter 1 to be array, null given in D:\web_php\2021.05.10_home\app\views\chart.php on line 8
+[26-May-2021 05:10:45 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\web_php\2021.05.10_home\app\views\chart.php on line 11
+[26-May-2021 05:12:13 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use object of type DirectoryIterator as array in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php:8
+Stack trace:
+#0 D:\web_php\2021.05.10_home\app\routes.php(17): require_once()
+#1 D:\web_php\2021.05.10_home\app\bootstrap.php(17): require_once('D:\\web_php\\2021...')
+#2 D:\web_php\2021.05.10_home\public\index.php(3): require_once('D:\\web_php\\2021...')
+#3 {main}
+  thrown in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 8
+[26-May-2021 05:12:52 Europe/Berlin] PHP Notice:  Undefined property: DirectoryIterator::$pathName in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 8
+[26-May-2021 05:12:52 Europe/Berlin] PHP Notice:  Undefined property: DirectoryIterator::$pathName in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 8
+[26-May-2021 05:12:52 Europe/Berlin] PHP Notice:  Undefined variable: lastFile in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 51
+[26-May-2021 05:12:52 Europe/Berlin] PHP Warning:  file_get_contents(D:\web_php\2021.05.10_home\app/uploads/): failed to open stream: No such file or directory in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 51
+[26-May-2021 05:12:52 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in D:\web_php\2021.05.10_home\app\views\table.php on line 3
+[26-May-2021 05:12:52 Europe/Berlin] PHP Warning:  array_keys() expects parameter 1 to be array, null given in D:\web_php\2021.05.10_home\app\views\chart.php on line 8
+[26-May-2021 05:12:52 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\web_php\2021.05.10_home\app\views\chart.php on line 11
+[26-May-2021 05:13:48 Europe/Berlin] PHP Notice:  Undefined variable: lastFile in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 51
+[26-May-2021 05:13:48 Europe/Berlin] PHP Warning:  file_get_contents(D:\web_php\2021.05.10_home\app/uploads/): failed to open stream: No such file or directory in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 51
+[26-May-2021 05:13:48 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in D:\web_php\2021.05.10_home\app\views\table.php on line 3
+[26-May-2021 05:13:48 Europe/Berlin] PHP Warning:  array_keys() expects parameter 1 to be array, null given in D:\web_php\2021.05.10_home\app\views\chart.php on line 8
+[26-May-2021 05:13:48 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\web_php\2021.05.10_home\app\views\chart.php on line 11
+[26-May-2021 05:15:06 Europe/Berlin] PHP Notice:  Undefined variable: lastFile in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 54
+[26-May-2021 05:15:06 Europe/Berlin] PHP Warning:  file_get_contents(D:\web_php\2021.05.10_home\app/uploads/): failed to open stream: No such file or directory in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 54
+[26-May-2021 05:15:06 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in D:\web_php\2021.05.10_home\app\views\table.php on line 3
+[26-May-2021 05:15:06 Europe/Berlin] PHP Warning:  array_keys() expects parameter 1 to be array, null given in D:\web_php\2021.05.10_home\app\views\chart.php on line 8
+[26-May-2021 05:15:06 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\web_php\2021.05.10_home\app\views\chart.php on line 11
+[26-May-2021 05:16:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use object of type SplFileInfo as array in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php:14
+Stack trace:
+#0 D:\web_php\2021.05.10_home\app\routes.php(17): require_once()
+#1 D:\web_php\2021.05.10_home\app\bootstrap.php(17): require_once('D:\\web_php\\2021...')
+#2 D:\web_php\2021.05.10_home\public\index.php(3): require_once('D:\\web_php\\2021...')
+#3 {main}
+  thrown in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 14
+[26-May-2021 05:16:37 Europe/Berlin] PHP Notice:  Undefined property: SplFileInfo::$extension in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 14
+[26-May-2021 05:16:37 Europe/Berlin] PHP Notice:  Undefined property: SplFileInfo::$extension in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 14
+[26-May-2021 05:16:37 Europe/Berlin] PHP Notice:  Undefined variable: lastFile in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 56
+[26-May-2021 05:16:37 Europe/Berlin] PHP Warning:  file_get_contents(D:\web_php\2021.05.10_home\app/uploads/): failed to open stream: No such file or directory in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 56
+[26-May-2021 05:16:37 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in D:\web_php\2021.05.10_home\app\views\table.php on line 3
+[26-May-2021 05:16:37 Europe/Berlin] PHP Warning:  array_keys() expects parameter 1 to be array, null given in D:\web_php\2021.05.10_home\app\views\chart.php on line 8
+[26-May-2021 05:16:37 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\web_php\2021.05.10_home\app\views\chart.php on line 11
+[26-May-2021 05:21:00 Europe/Berlin] PHP Notice:  Undefined variable: lastFile in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 56
+[26-May-2021 05:21:00 Europe/Berlin] PHP Warning:  file_get_contents(D:\web_php\2021.05.10_home\app/uploads/): failed to open stream: No such file or directory in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 56
+[26-May-2021 05:21:00 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in D:\web_php\2021.05.10_home\app\views\table.php on line 3
+[26-May-2021 05:21:00 Europe/Berlin] PHP Warning:  array_keys() expects parameter 1 to be array, null given in D:\web_php\2021.05.10_home\app\views\chart.php on line 8
+[26-May-2021 05:21:00 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\web_php\2021.05.10_home\app\views\chart.php on line 11
+[26-May-2021 05:25:49 Europe/Berlin] PHP Warning:  filemtime(): stat failed for 624b7ae6e189df6786c5aee64892ed195e886e4f.json in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 11
+[26-May-2021 05:25:49 Europe/Berlin] PHP Warning:  filemtime(): stat failed for c60efae82d9b4ae946b0cd51901f0015c270c3d7.json in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 11
+[26-May-2021 05:25:49 Europe/Berlin] PHP Warning:  file_get_contents(D:\web_php\2021.05.10_home\app/uploads/): failed to open stream: No such file or directory in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 55
+[26-May-2021 05:25:49 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in D:\web_php\2021.05.10_home\app\views\table.php on line 3
+[26-May-2021 05:25:49 Europe/Berlin] PHP Warning:  array_keys() expects parameter 1 to be array, null given in D:\web_php\2021.05.10_home\app\views\chart.php on line 8
+[26-May-2021 05:25:49 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\web_php\2021.05.10_home\app\views\chart.php on line 11
+[26-May-2021 05:28:33 Europe/Berlin] PHP Warning:  file_get_contents(D:\web_php\2021.05.10_home\app/uploads/D:\web_php\2021.05.10_home\app/uploads/c60efae82d9b4ae946b0cd51901f0015c270c3d7.json): failed to open stream: No such file or directory in D:\web_php\2021.05.10_home\app\controllers\StatisticController.php on line 55
+[26-May-2021 05:28:33 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in D:\web_php\2021.05.10_home\app\views\table.php on line 3
+[26-May-2021 05:28:33 Europe/Berlin] PHP Warning:  array_keys() expects parameter 1 to be array, null given in D:\web_php\2021.05.10_home\app\views\chart.php on line 8
+[26-May-2021 05:28:33 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\web_php\2021.05.10_home\app\views\chart.php on line 11
