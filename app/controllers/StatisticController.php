@@ -1,5 +1,5 @@
 <?php
-$now = new \DateTime();
+
 $lastFile = null;
 $dir = new DirectoryIterator(UPLOADS_DIR);
 $modTime = 0;
